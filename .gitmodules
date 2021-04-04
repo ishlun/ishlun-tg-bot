@@ -1,0 +1,3 @@
+[submodule "mcquote"]
+	path = mcquote
+	url = https://github.com/ishlun/mcquote.git
